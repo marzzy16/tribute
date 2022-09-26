@@ -1,0 +1,42 @@
+body {
+background-color: darkgray;}
+  
+  
+ 
+
+.myimg{
+
+  width:300px;
+  height:300px;
+  object-fit:cover;
+  border-radius:50%;}
+  
+#summary{
+  border: solid black  3px; 
+  background-color: lightgray;
+
+  
+}
+
+ul{
+  display: table ;
+  margin: 0 auto;
+  border:  solid black 3px;
+  background-color: lightgray;
+  height: 50%;
+}
+
+li{
+  text-align: left;
+    
+  background-color: lightgray;
+}
+
+p{
+  display: table ;
+  margin: 0 auto;
+  border:  solid black 3px;
+  background-color: lightgray;
+  padding:  30;
+
+}
